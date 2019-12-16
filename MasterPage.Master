@@ -1,0 +1,82 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="Foodies.MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+<%--        #grad1
+        {
+            background-image:linear-gradient(to right,white,black);
+        }--%>
+        .style1
+        {
+            width: 100%;
+        }
+        .style4
+        {
+        }
+        .style6
+        {
+            height: 322px;
+        }
+        .style10
+        {
+            height: 40px;
+        }
+        .style14
+        {
+            height: 10px;
+        }
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table class="style1">
+            <tr >
+                <td bgcolor="Black" class="style14"  >
+                </td>
+            </tr>
+            <tr >
+                <td class="style10"  >
+                    <asp:LinkButton ID="lbAboutUs" runat="server"  
+                        style="position:absolute;top: 43px; left: 964px; " ForeColor="Black" 
+                        onclick="lbAboutUs_Click" CausesValidation="False">About Us</asp:LinkButton>
+                    <asp:LinkButton ID="lbContactUs" runat="server" 
+                        style="position:absolute; top: 43px; left: 1054px;" ForeColor="Black" 
+                        onclick="lbContactUs_Click" CausesValidation="False">Contact Us</asp:LinkButton>
+                    <asp:LinkButton ID="lbFeedback" runat="server" 
+                        style="position:absolute;top: 43px; left: 1151px;" ForeColor="Black" 
+                        onclick="lbFeedback_Click" CausesValidation="False">Feedback</asp:LinkButton>
+                                            <asp:LinkButton ID="lbLogOut" runat="server" 
+                        style="position:absolute;top: 43px; left: 1245px;" ForeColor="Black" 
+                        onclick="lbLogOut_Click" CausesValidation="False">Log Out</asp:LinkButton>
+                    <asp:Image ID="Image1" runat="server" 
+                        ImageUrl="~/Images/Logo.jpg"       
+
+                        style="position:absolute; top: 9px; left: 40px; height: 71px; width: 155px;" />
+                </td>
+            </tr>
+            <tr >
+                <td class="style14" bgcolor="Black"  >
+                </td>
+            </tr>
+            <tr>
+                <td width="816px" class="style6">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </td>
+            </tr>
+            <tr>
+                <td class="style4">
+                    &nbsp;</td>
+            </tr>
+            </table>
+    </div>
+    </form>
+</body>
+</html>

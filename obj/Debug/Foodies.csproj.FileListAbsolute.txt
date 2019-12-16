@@ -1,0 +1,20 @@
+D:\AnjaliJain\Foodies\Foodies\bin\Foodies.dll
+D:\AnjaliJain\Foodies\Foodies\bin\Foodies.pdb
+D:\AnjaliJain\Foodies\Foodies\obj\Debug\Foodies.dll
+D:\AnjaliJain\Foodies\Foodies\obj\Debug\Foodies.pdb
+D:\Foodies\Foodies\bin\Foodies.dll
+D:\Foodies\Foodies\bin\Foodies.pdb
+D:\Foodies\Foodies\obj\Debug\Foodies.dll
+D:\Foodies\Foodies\obj\Debug\Foodies.pdb
+I:\DOT NET PROJECT\Foodies\Foodies\bin\Foodies.dll
+I:\DOT NET PROJECT\Foodies\Foodies\bin\Foodies.pdb
+I:\DOT NET PROJECT\Foodies\Foodies\obj\Debug\Foodies.dll
+I:\DOT NET PROJECT\Foodies\Foodies\obj\Debug\Foodies.pdb
+G:\DOT NET PROJECT\Foodies\Foodies\bin\Foodies.dll
+G:\DOT NET PROJECT\Foodies\Foodies\bin\Foodies.pdb
+G:\DOT NET PROJECT\Foodies\Foodies\obj\Debug\Foodies.dll
+G:\DOT NET PROJECT\Foodies\Foodies\obj\Debug\Foodies.pdb
+D:\DOT NET PROJECT\Foodies\Foodies\bin\Foodies.dll
+D:\DOT NET PROJECT\Foodies\Foodies\bin\Foodies.pdb
+D:\DOT NET PROJECT\Foodies\Foodies\obj\Debug\Foodies.dll
+D:\DOT NET PROJECT\Foodies\Foodies\obj\Debug\Foodies.pdb
